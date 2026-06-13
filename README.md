@@ -37,7 +37,7 @@ Aspiring Data Scientist | Python • SQL • Power BI • Data Visualization
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,vscode,github,java,git" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,vscode,github,java,git,mongodb" />
 
 </p>
 
