@@ -5,7 +5,7 @@ Aspiring Data Scientist | Python • SQL • Power BI • Data Visualization
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;HTML+%7C+CSS+%7C+JavaScript;Turning+Data+Into+Insights;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Web+Developer;Python+%7C+SQL+%7C+Power+BI;HTML+%7C+CSS+%7C+JavaScript;Turning+Data+Into+Insights;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
