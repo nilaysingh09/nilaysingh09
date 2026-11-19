@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilay Singh</h1>
 
 <h3 align="center">
-Aspiring Data Scientist | Python • SQL • Power BI • Data Visualization
+Aspiring Data Scientist | Python • SQL • Web Developer • Data Visualization
 </h3>
 
 <p align="center">
@@ -14,22 +14,26 @@ Aspiring Data Scientist | Python • SQL • Power BI • Data Visualization
 
 🎯 Aspiring **Data Scientist Fresher** passionate about transforming raw data into meaningful insights.  
 
+🥷 Experanced in:
+- Web Development
+
 📊 Skilled in:
 - Data Analysis
-- Dashboard Creation
-- Data Visualization
 - Frontend Development
+- Prompt Engineering
+- Advanced SQL
+- Wordpress Development
 
 💡 Interested in:
 - Business Analytics
-- Data Storytelling
+- App Development
 - Web Development
 - Machine Learning
 
 🌱 Currently learning:
-- Advanced SQL
 - Machine Learning
-- JavaScript Projects
+- App Development
+- Artificial Intelligence
 
 ---
 
@@ -37,7 +41,7 @@ Aspiring Data Scientist | Python • SQL • Power BI • Data Visualization
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,vscode,github,java,git,mongodb,wordpress" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,vscode,github,java,git,mongodb,wordpress,tailwindcss" />
 
 </p>
 
